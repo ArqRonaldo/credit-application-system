@@ -5,6 +5,6 @@
 ### Criando ums API Rest com Kotlin e Persistência de Dados (Curso DIO)
 
 
-- Spring Boot 3 - Dependencias : H2 , Flyway Migration , Spring Web , Spring Data JPA ;
+- Spring Boot 3 - Dependências : H2 , Flyway Migration , Spring Web , Spring Data JPA ;
 - Gradle ;
 - Postman .
