@@ -8,3 +8,4 @@
 - Spring Boot 3 - Dependências : H2 , Flyway Migration , Spring Web , Spring Data JPA ;
 - Gradle ;
 - Postman .
+- Swagger UI
